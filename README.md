@@ -1,1 +1,2 @@
-# m2m-platform
+# M2M Platform
+An M2M platform—or machine-to-machine platform—is a software solution that unifies and simplifies the management of M2M devices and applications. An M2M platform can have a wide range of features and functionalities, but overall they manage data transmitted by devices, the backend systems that process the data, the provisioning of software updates to devices, and general device lifecycle administration.
